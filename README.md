@@ -1,7 +1,7 @@
 # Tic Tac Toe
 My first JavaScript project – a Tic Tac Toe game built using HTML, CSS, and JavaScript. Features turn-based gameplay, winner detection, draw detection and game reset functionality.
 
-## features :
+## Features :
 - Two-player gameplay
 - Winner detection
 - Draw detection
